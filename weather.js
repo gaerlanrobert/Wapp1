@@ -43,7 +43,7 @@ function showResults(data) {
     " </h3>" +
     "<h3 style=padding-left:40px ><strong>Description</strong>: <img src='http://openweathermap.org/img/w/" +
     data.weather[0].icon +
-    " .png'>  " +
+    ".png'>  " +
     data.weather[0].description +
     " </h3>" +
     "<h3 style=padding-left:40px ><strong>Temperature</strong>: " +
